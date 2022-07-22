@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Announcements
+title: Blog
 nav_exclude: true
-description: A feed containing all of the class announcements.
+description: Ali's depository of updates.
 ---
 
-# Announcements
+# Blog
 
-Announcements are stored in the `_announcements` directory and rendered according to the layout file, `_layouts/announcement.html`.
+Blog posts are stored in the `_blog` directory and rendered according to the layout file, `_layouts/announcement.html`.
 
 {% assign announcements = site.announcements | reverse %}
 {% for announcement in announcements %}
