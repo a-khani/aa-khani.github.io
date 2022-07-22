@@ -1,8 +1,8 @@
 ---
 title: Week 0 Announcement
 week: 0
-date: 2019-04-01
+date: 2022-07-22
 ---
 
-Hello world!
+Let's get things started here. I'm planning on migrating my main website to this Github repository since the grass seems to be greener on this side. Maybe it'll make configurability much more bearable.
 {: .fs-5 }
