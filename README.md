@@ -7,6 +7,7 @@ seo:
   type: Course
   name: Ali Khani
 ---
+tryna see smth
 
 ## Hello there! I'm
 # Ali Khani.
