@@ -7,9 +7,8 @@ seo:
   type: Course
   name: Ali Khani
 ---
-tryna see smth
 
-## Hello there! I'm
+### Hello there! I'm
 # Ali Khani.
 
 Congrats on making it to my landing page!
