@@ -6,11 +6,11 @@ description: A little bit about me.
 
 # Bio
 
-{% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
-{% assign num_teaching_assistants = teaching_assistants | size %}
-{% if num_teaching_assistants != 0 %}
+{% assign people = site.staffers | where: 'role', 'Person' %}
+{% assign num_people = people | size %}
+{% if num_people != 0 %}
 
-{% for staffer in teaching_assistants %}
-{{ staffer }}
+{% for person in people %}
+{{ person }}
 {% endfor %}
 {% endif %}
