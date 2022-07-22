@@ -1,6 +1,6 @@
 ---
 name: Ali Khani
-role: Teaching Assistant
+role: Person
 email: khani@berkeley.edu
 website: https://akhani.net
 photo: pfp.jpg
