@@ -15,7 +15,7 @@ Congrats on making it to my landing page!
 
 Feel free to check out:
 
-- my [bio](staff.md),
-- my [blog](announcements.md),
-- my [calendar](calendar.md),
-- and some [schedule](schedule.md).
+#### - my [bio](staff.md),
+#### - my [blog](announcements.md),
+#### - my [calendar](calendar.md),
+#### - and some [schedule](schedule.md).
