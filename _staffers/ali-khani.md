@@ -6,7 +6,7 @@ website: https://akhani.net
 photo: pfp.jpg
 ---
 
-I'm Ali Khani, a motivated sophomore student at the University of California, Berkeley double-majoring in Computer Science & Data Science.
+### I'm **Ali Khani**, a motivated sophomore student at the University of California, Berkeley double-majoring in Computer Science & Data Science.
 
 My favorite programming language is Python.
 
