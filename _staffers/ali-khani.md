@@ -6,7 +6,7 @@ website: https://akhani.net
 photo: pfp.jpg
 ---
 
-### I'm **Ali Khani**, a motivated sophomore student at the University of California, Berkeley double-majoring in Computer Science & Data Science.
+### I'm Ali, a motivated sophomore student at the University of California, Berkeley double-majoring in Computer Science & Data Science.
 
 My favorite programming language is Python.
 
@@ -17,7 +17,9 @@ My favorite programming language is Python.
 ↳ I have experience with the MERN stack, HTML/CSS, R, and JSON.
 
 
+
 During my time at Berkeley, I've become experienced in Git and Googling, which I've utilized to help me on projects in software engineering, data science, and cryptography. 
+
 
 
 So far I've built:
@@ -33,4 +35,5 @@ and various other projects!
 I'm also passionate about tennis, lightsaber dueling, teaching, and going on roadtrips across California.
 
 
-Reach out to me at [ali@akhani.net](mailto:ali@akhani.net) or my Berkeley email above — I'd love to chat!
+
+### Reach out to me at [ali@akhani.net](mailto:ali@akhani.net) or my Berkeley email above — I'd love to chat!
